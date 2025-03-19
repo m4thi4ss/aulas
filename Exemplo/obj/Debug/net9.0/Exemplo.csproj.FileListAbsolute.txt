@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.exe
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.deps.json
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.runtimeconfig.json
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
