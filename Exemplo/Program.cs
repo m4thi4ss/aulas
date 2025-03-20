@@ -59,3 +59,53 @@ try
     Console.WriteLine(
 
 }
+//---------------------------------------------------------------------------------------------------------------------------
+//Vetores 
+//5 idades
+
+int idade1;
+int idade2;
+int idade3;
+int idade4;
+int idade5;
+
+//Conjunto de informacoes/dados
+//Vetor/Array - TEM QUE TER LIMITES
+int[] idades = new int[5]; //new int["Aqui dentro vai ficar a quantidade de idades que vai ser guardada"]
+
+string[] nomes = new string[10]; //Como colocar letras 
+
+//Crio o Vetor e dou um nome 
+//int[] idades;
+
+//Inicializo o Vetor
+//new <TIPO>[<QUANTIDADE>];
+
+//Posicao
+// 0 1 2 3 4 5
+nomes[0] = "Vinicio";
+
+Console.WriteLine(nomes[0]);
+
+idades[4] = 26;
+
+//FOR - Percorrer Listas/Vetores
+//Cadastrar todos os nomes
+for (int i = 0;i < 5; i++)
+{
+    Console.WriteLine("Insira um nome: ");
+    nomes[i] = Console.ReadLine();
+}
+
+//Listar todos os nomes
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(nomes[i]);
+}
+
+//Para cada
+foreach (var item in nomes) //var ele e usado para vericar qual operador ele seria, por exemplo nomes e string ele ja vai transformar automaticamente 
+{
+    Console.WriteLine(item);
+}
+
