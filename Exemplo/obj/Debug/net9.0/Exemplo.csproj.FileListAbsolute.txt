@@ -19,3 +19,11 @@ D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
 D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.dll
 D:\aula\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
 D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\fic\Downloads\aula\Exemplo\obj\Debug\net9.0\Exemplo.pdb
