@@ -10,13 +10,13 @@
 
 //Peça ao usuário para inserir a senha "1234". Continue pedindo até que ele acerte.
 
-//int senha;
+int senha;
 
-//do
-//{
-//    Console.WriteLine("Informe a senha: ");
-//    senha = int.Parse(Console.ReadLine());
-//} while (senha != 1234);
+do
+{
+    Console.WriteLine("Informe a senha: ");
+    senha = int.Parse(Console.ReadLine());
+} while (senha != 1234);
 
 //Peça ao usuário um número e exiba a tabuada dele de 1 a 10.
 
@@ -116,14 +116,14 @@
 
 //try
 //{
-//Console.WriteLine("Informe sua idade:");
-//int idade = int.Parse(Console.ReadLine());
+//    Console.WriteLine("Informe sua idade:");
+//    int idade = int.Parse(Console.ReadLine());
 
 //    if (idade >= 18)
 //    {
 //        Console.WriteLine("Voce e maior de idade");
 //    }
-//    else if (idade > 0) 
+//    else if (idade > 0)
 //    {
 
 //        Console.WriteLine("Voce e menor de idade");
@@ -131,16 +131,17 @@
 //    if (idade < 0)
 //    {
 //        throw new ArgumentOutOfRangeException("Erro: A idade nao pode ser negativa");
+//    }
 //}
-//}catch(FormatException ex)
+//catch (FormatException ex)
 //{
 //    Console.WriteLine("Erro: A idade nao pode ser negativa");
 //}
-//catch(OverflowException ex)
+//catch (OverflowException ex)
 //{
 //    Console.WriteLine("Erro: A idade nao pode ser negativa");
 //}
-//catch(ArgumentOutOfRangeException ex)
+//catch (ArgumentOutOfRangeException ex)
 //{
 //    Console.WriteLine("Erro: A idade nao pode ser negativa");
 //}
@@ -196,31 +197,96 @@
 //    int senha = int.Parse(Console.ReadLine());
 //    int senha2;
 
+
 //    do
 //    {
 //        Console.WriteLine("Qual e sua senha:");
 //        senha2 = int.Parse(Console.ReadLine());
 //    } while (senha2 != senha);
+//    if (senha = nulo); 
+//    {
 
+//    }
 
-//}catch
+//}
+//catch()
 
 //------------------------------------------------------------------------------------------
 //Cria um vetor de idades com 4 posicoes 
 
-int[] idades = new int[4];
+//int[] idades = new int[4];
 
 //Use um for para preencher as idades
 
-for (int i = 0; i < 4; i++)
-{
-    Console.WriteLine("Insira a idade: ");
-    idades[i] = int.Parse(Console.ReadLine());
-}
+//for (int i = 0; i < 4; i++)
+//{
+//    Console.WriteLine("Insira a idade: ");
+//    idades[i] = int.Parse(Console.ReadLine());
+//}
 
 //Use um for para listar as idades
 
-for (int i = 0;i < 4; i++)
-{
-    Console.WriteLine(idades[i]);
-}
+//for (int i = 0; i < 4; i++)
+//{
+//    Console.WriteLine(idades[i]);
+//}
+
+//1. * *Listagem dos Elementos**
+//    - Crie um vetor com 5 elementos, e liste todos os elementos do vetor utilizando um For
+
+//int[] ele = new int[5];
+
+//for(int i = 0; i < 5; i++)
+//{
+//    Console.WriteLine("Me informe um numero:");
+//    ele[i] = int.Parse(Console.ReadLine());
+//}
+
+//for(int i = 0;i < 5; i++)
+//{
+//    Console.WriteLine(ele[i]);
+//}
+
+//Soma dos Elementos de um Array
+//Crie um programa que declare um array de 5 números inteiros e utilize um laço de repetição para somar todos os valores. No final, exiba a soma na tela.
+
+//int[] num = new int[5];
+//int num2 = 0;
+
+//for (int i = 0; i <= 5; i++)
+//{
+//    Console.WriteLine("Me informe um numero:");
+//    num[i] = int.Parse(Console.ReadLine()) ;
+//    num2 = num[i] + num2;
+//}
+
+//1. **Encontrar o Maior Número em um Array**
+//-Crie um programa que declare um array de 5 números inteiros e utilize um laço de repetição para encontrar o maior número do array. No final, exiba o maior valor encontrado.
+
+//int[] num3 = new int[5]; //Aqui voce ta criando um vetor pra guardar informacoes
+//int num2 = 0; //Auxiliar para o IF
+
+//for (int i = 0; i < 5; i++) //Criando uma lista de 0 a 5
+//{
+//    Console.WriteLine("Me informe um numero:"); //Pedindo para o usuario informar um numero
+//    num3[i] = int.Parse(Console.ReadLine()); //passando o Console.Writeline para numero
+//    if (num3[i] > num2) //Informando que vai pegar o maior do num3[i]
+//    {
+//        num2 = num3[i]; //Guardando o maior do num3[i]
+//    }
+//}
+//Console.WriteLine(num2); //Mostrando na tela.
+
+//1. **Remover Duplicatas**
+//-Receba 10 números em um array e exiba-os sem valores duplicados.
+
+//int[]num1 = new int[10];
+//int num2 = 0;
+
+//for (int i = 0; i < 10; i++)
+//{
+//    Console.WriteLine("Me informe 10 numeros:");
+//    num1[i] = int.Parse(Console.ReadLine());
+//    num2 = new int[i];
+//    if (num1[i] =  )
+//}

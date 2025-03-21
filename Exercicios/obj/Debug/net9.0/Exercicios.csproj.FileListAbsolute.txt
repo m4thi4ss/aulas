@@ -12,3 +12,17 @@ C:\Users\fic\source\repos\EstruturasRepeticao\Exercicios\obj\Debug\net9.0\refint
 C:\Users\fic\source\repos\EstruturasRepeticao\Exercicios\obj\Debug\net9.0\Exercicios.pdb
 C:\Users\fic\source\repos\EstruturasRepeticao\Exercicios\obj\Debug\net9.0\Exercicios.genruntimeconfig.cache
 C:\Users\fic\source\repos\EstruturasRepeticao\Exercicios\obj\Debug\net9.0\ref\Exercicios.dll
+D:\aula\Exercicios\bin\Debug\net9.0\Exercicios.exe
+D:\aula\Exercicios\bin\Debug\net9.0\Exercicios.deps.json
+D:\aula\Exercicios\bin\Debug\net9.0\Exercicios.runtimeconfig.json
+D:\aula\Exercicios\bin\Debug\net9.0\Exercicios.dll
+D:\aula\Exercicios\bin\Debug\net9.0\Exercicios.pdb
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.AssemblyInfoInputs.cache
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.AssemblyInfo.cs
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.csproj.CoreCompileInputs.cache
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.dll
+D:\aula\Exercicios\obj\Debug\net9.0\refint\Exercicios.dll
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.pdb
+D:\aula\Exercicios\obj\Debug\net9.0\Exercicios.genruntimeconfig.cache
+D:\aula\Exercicios\obj\Debug\net9.0\ref\Exercicios.dll

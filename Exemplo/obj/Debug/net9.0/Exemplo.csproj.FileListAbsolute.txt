@@ -12,3 +12,10 @@ C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\refint\Ex
 C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.pdb
 C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
 C:\Users\fic\source\repos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.dll
+D:\aula\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+D:\aula\Exemplo\obj\Debug\net9.0\Exemplo.pdb
