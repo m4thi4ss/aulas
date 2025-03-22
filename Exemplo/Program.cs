@@ -108,4 +108,8 @@ foreach (var item in nomes) //var ele e usado para vericar qual operador ele ser
 {
     Console.WriteLine(item);
 }
+//---------------------------------------------------------------------------------------------------------------
+
+//Funcoes 
+// C - Programacao Estruturada
 

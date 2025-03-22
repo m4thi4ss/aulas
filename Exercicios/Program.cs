@@ -290,3 +290,14 @@ do
 //    num2 = new int[i];
 //    if (num1[i] =  )
 //}
+
+//---------------------------------------------------------------------------------------------
+
+double Soma(double x, double y)
+{
+    double resultado = x + y;
+
+    return resultado;
+}
+
+Console.WriteLine(Soma(2, 4));
